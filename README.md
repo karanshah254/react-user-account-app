@@ -73,17 +73,20 @@ Make sure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone url
+   git clone https://github.com/karanshah254/react-user-account-app.git
    cd react-user-account-app
 2. Install the dependencies
     ```bash
     npm install
+    ```
 3. Start the development server
     ```bash
     npm run dev
+    ```
 4. Open the application in your browser
     ```arduino
     http://localhost:5173
+    ```
 
 ### 🛠️ Project Structure
 ```arduino
@@ -96,9 +99,12 @@ react-user-account-app/
 │   │   └── Profile.jsx
 │   ├── App.jsx
 │   ├── main.jsx
-│   └── styles.css
+│   └── index.css
 ├── .gitignore
 ├── index.html
 ├── package.json
 ├── README.md
 └── vite.config.js
+```
+
+### Reach out to me [Karan Shah](https://www.linkedin.com/in/karan-shah254/)
